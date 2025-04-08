@@ -1,6 +1,5 @@
 ---
-title: InstantCoder
-emoji: 🦀
+title: Instant_Coder
 colorFrom: yellow
 colorTo: green
 sdk: docker
