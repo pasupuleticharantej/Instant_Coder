@@ -43,12 +43,5 @@
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }
-  "devDependencies": {
-  "typescript": "^5"
-},
-"scripts": {
-  "dev": "cross-env PORT=7860 next dev"
-}
-
 }
 
