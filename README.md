@@ -1,18 +1,18 @@
 
-InstantCoder
+Instant_Coder
 ____
 Generate small apps with one prompt. Powered by the Gemini API.
 
 Try it in https://charan001-instant-coder.hf.space
 ____
 This project is fully based on llamacoder. Please follow Nutlope and give them a star.
-_
+____
 Tech stack
 Gemini API to use Gemini 1.5 Pro, Gemini 1.5 Flash, and Gemini 2.0 Flash Experimental
 Sandpack for the code sandbox
 Next.js app router with Tailwind
 You can also experiment with Gemini in Google AI Studio.
-_
+____
 Cloning & running
 Clone the repo: git clone https://github.com/pasupuleticharantej/Instant_Coder.git
 
