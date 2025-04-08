@@ -1,10 +1,11 @@
 ---
-title: Instant Coder
-emoji: 🚀
-colorFrom: gray
-colorTo: red
+title: InstantCoder
+emoji: 🦀
+colorFrom: yellow
+colorTo: green
 sdk: docker
 pinned: false
+disable_embedding: true
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check
