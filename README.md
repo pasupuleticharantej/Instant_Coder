@@ -5,8 +5,6 @@ Generate small apps with one prompt. Powered by the Gemini API.
 
 Try it in https://charan001-instant-coder.hf.space
 ____
-This project is fully based on llamacoder. Please follow Nutlope and give them a star.
-____
 Tech stack
 Gemini API to use Gemini 1.5 Pro, Gemini 1.5 Flash, and Gemini 2.0 Flash Experimental
 Sandpack for the code sandbox
